@@ -12,7 +12,7 @@
 |5|反復<br>(=PDCAサイクル)|コミュニケーションと体験を実際に展開してPDCAサイクルを回す。|
 
 ## 戦術設計フロー
-* [Wiki]()
+* [Wiki](https://github.com/AquaMeria/plan_tactics/wiki)
 
 ## 戦術設計を見直す頻度
 * 目的が変わった時
